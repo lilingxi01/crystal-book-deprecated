@@ -4,7 +4,7 @@
  
 <br>
 
-<h1 align="center"><img src="https://github.com/crystal-zh-cn/crystal-book/blob/main/resources/logo-no-edge.png?raw=true" height="24"/> Crystal 编程语言</h1>
+<h1 align="center"><img src="https://github.com/crystal-zh-cn/crystal-book/blob/master/resources/logo-no-edge.png?raw=true" height="24"/> Crystal 编程语言</h1>
 
 这是一份适用于 Crystal 编程语言的官方参考文档。
 
